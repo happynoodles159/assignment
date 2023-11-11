@@ -5,9 +5,10 @@
 
 }
 .banner{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(peter-broomfield-m3m-lnR90uM-unsplash.jpg);
     background-size: cover;
     background-position: center;
+    
 }
