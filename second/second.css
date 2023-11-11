@@ -51,7 +51,7 @@ h1{
     width: 100%;
 }
 .content{
-    width: 100%;
+    width: auto;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
